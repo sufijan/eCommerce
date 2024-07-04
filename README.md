@@ -1,9 +1,11 @@
 # eCommerce
+>Simple java application for eCommerce management, eCommerce is API for fetching products, items and creating orders for members.
+>Application is built in Java 17 with Maven config.
 
->Java Application built in Maven with Java SDK 17.
+>Download JAVA 17 here: https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html
 
->eCommerce is API for fetching products, items and creating orders for members.
+>Data Base will automatically be created on localhost when running application. This is DB url: http://localhost:8080/h2-console
 
->implemented: products and user services.
+>Login with URL, UserName and Password from the resource file: application.properties
 
->database: H2O
+>No cookies added or Authorisation for now.
